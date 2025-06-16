@@ -26,8 +26,7 @@ KipuBank is a decentralized banking system implemented in Solidity that allows u
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
-- A wallet with ETH for deployment gas
+- A wallet with ETH for deployment gas (e.g., MetaMask)
 - Access to an Ethereum network (Mainnet, testnet, or local network)
 
 ### Deploy with Remix IDE
