@@ -13,3 +13,10 @@ states/
 # Optional
 .env
 .env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Solidity compiler binaries (like soljson-latest.js)
+contracts/soljson-*.js
